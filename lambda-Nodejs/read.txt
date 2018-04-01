@@ -1,0 +1,4 @@
+for lambda:
+use Environment Variables
+TableName -->FlashCards
+csvFile --> flashcards_lx0-103_v2.csv
